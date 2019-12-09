@@ -32,11 +32,10 @@ Profitons-en pour installer également [HTTPS Everywhere](https://addons.mozilla
 
 Comme on peut le voir, on peut choisir d'afficher des règles avec différents critères, bloquer des publicités, bloquer des malwares/virus, bloquer des mouchards, bloquer des sites sensibles, etc.
 
-Nous allons nous abonner aux listes suivantes :
+Nous allons nous abonner aux listes suivantes en cliquant sur le bouton bleu "Subscribe" :
 
-- [1Hosts Complete]() (Bloque des publicités, des sites infectés de malwares, la plupart des mouchards, les sites minant de la cryptomonnaie à votre insu)
-
-- [AakList]() (Bloque les bloqueurs de publicités)
+- [1Hosts Complete](https://filterlists.com/lists/1hosts-complete) (Bloque des publicités, des sites infectés de malwares, la plupart des mouchards, les sites minant de la cryptomonnaie à votre insu)
+- [AakList](https://filterlists.com/lists/aaklist-anti-adblock-killer) (Bloque les bloqueurs de publicités)
 
 Avec ça nous sommes déjà bien équipé, mais je vous encourage à vous balader sur le site et choisir d'autres listes, certaines vous permettrons de cacher les pop-up de newsletters, d'autres bloqueront l'accès aux Casino en lignes, d'autres à la pornographie, etc.
 
