@@ -5,10 +5,7 @@
 
 *Je n’ai pas la prétention de dire que je possède une bonne plume, au travers des mes articles je m’adresserais à vous de manière simple pour rendre plus accessible mes connaissances.*
 
-Cette série va vous aidez, progressivement, a changer vos habitudes sur Internet et votre rapport au numérique.
-
-//////Je vais commencez par des articles simples, qui ne vous demande pas de changer radicalement vos habitudes, nous allons
-y aller progressivement ainsi vous vous rendrez compte que saffranchir des Big brother est relativement simples.///////
+Cette série va vous aider, progressivement, à changer vos habitudes sur Internet et votre rapport au numérique.
 
 ## Pourquoi changer vos habitudes?
 
