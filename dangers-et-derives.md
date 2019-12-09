@@ -121,8 +121,9 @@ Abonnez-vous pour ne pas manquer les prochains articles, laissez un petit commen
 N’hésitez pas à poser des questions, j’y répondrais des que possible.
 
 
+
 ## Mes réseaux
  - Me suivre sur Steemit
- - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) 
-
+ - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) - <script src="https://liberapay.com/The-Merovingian/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/The-Merovingian/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
