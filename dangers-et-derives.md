@@ -26,7 +26,7 @@ En contrepartie vous allez signer un contrat qui stipule que le contenu de la cl
 
 Voilà ce qui se passe quand vous utilisez un système de Cloud, il faut avoir une confiance immense en l’humain pour confier ses affaires à un parfait inconnu.
 
-*Ne vous inquiétez pas il y a des alternatives que je vous présenterez dans un prochain article.*
+*Ne vous inquiétez pas il y a des alternatives que je vous présenterais dans un prochain article.*
 
 ## Mouchards et manipulations
 Vous souvenez-vous de l’époque des GPS Tom-Tom? Une époque pas si lointaine qui maintenant parait insensé.
