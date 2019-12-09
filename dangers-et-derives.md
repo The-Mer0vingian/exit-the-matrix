@@ -19,8 +19,11 @@ La plupart des personnes utilisent un Cloud (Google Drive, Dropbox, OneDrive..) 
 Et tout cela gratuitement ! Fantastique, n’est-ce pas ?
 
 Maintenant, je vais vous proposer quelque chose, je vais donner une clé USB gratuitement, vous allez y mettre vos photos et vos documents et vous allez ensuite me la donner.
+
 Je me charge de garder votre clé en sécurité chez moi.
+
 En contrepartie vous allez signer un contrat qui stipule que le contenu de la clé m’appartient et que je me réserve le droit de copier son contenu, de le vendre et/ou de l’envoyer à des amis.
+
 Voilà ce qui se passe quand vous utilisez un système de Cloud, il faut avoir une confiance immense en l’humain pour confier ses affaires à un parfait inconnu.
 
 *Ne vous inquiétez pas il y a des alternatives que je vous présenterez dans un prochain article.*
