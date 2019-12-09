@@ -27,8 +27,10 @@ Voilà ce qui se passe quand vous utilisez un système de Cloud, il faut avoir u
 
 ## Mouchards et manipulations
 Vous souvenez-vous de l’époque des GPS Tom-Tom? Une époque pas si lointaine qui maintenant parait insensé.
+
 Google Maps et Waze sont gratuits !
 Pourquoi ce service autrefois payant, faire décoller des satellites n’est pas sans coût, ne vous coûte plus un sous ?
+
 Et bien en réalité quand vous utilisez Google Maps vous payez, pas avec de l’argent, mais avec quelque chose de bien plus concret! Vos données.
 
 Toute la journée, votre smartphone a le GPS activé, et toute la journée Google enregistre vos déplacements, autrement dit vous avez un mouchard dans votre poche et dans votre voiture.
@@ -40,15 +42,22 @@ Vous pourriez me répondre :
 Déjà si Google s’en fiche, pourquoi le fait-il? Pourquoi Google dépense des millions pour quelque chose dont il se fout royalement ?
 
 Vous aviez remarqué que Google Maps vous avertit des bouchons et des ralentissements sur la route?
+
 Comment Google sait qu’il y a un ralentissement dans tel ou tel rue?
+
 Parce que si sur une route dans un rayon de 100 mètres il y a 60 personnes qui se déplacent à 25km/h alors que c’est une route à 50 km/h alors c’est qu’il y a un ralentissement.
+
 Et la vous pourriez encore me répondre :
 
 > Et alors ? Tant mieux si mes données servent à faciliter notre quotidien !
 
 Ça l’est beaucoup moins par contre quand grâce a vos déplacements, ils dressent, un profil extrêmement complet sur vos façons de vous déplacer et donc, un profil psychologique.
+
 Profil psychologique qui les aidera à vous manipuler, pour changer vos habitudes.
-Par exemple, vous allez 9 fois 10 faire vos courses chez Auchan et bien si Carrefour paye Google pour obtenir 15 000 nouveaux clients dans telle ville, ils leurs sera très facile d’y arriver. Évidemment, ce n’est pas uniquement grâce à vos déplacements que Google pourra parvenir à vous manipuler, Google va en même temps utiliser le "Bubble Filter" qui est en fait un système de censure de vos résultats de recherche Google (je ferais un article sur le Bubble Filter, car cela a posé de gros problèmes lors d’élection présidentielle en réussissant à modifier les intentions de vote des utilisateurs de leurs services) de façon très simple, ils vont mettre en avant de vos actualités Google que des aliments dans certains magasins Auchan ont étaient contaminé par la salmonelle (ce qui arrive à des dizaines de magasins tous les jours) et en mettant des avis négatifs en avant sur la page du magasin, par exemple.
+
+Par exemple, vous allez 9 fois 10 faire vos courses chez Auchan et bien si Carrefour paye Google pour obtenir 15 000 nouveaux clients dans telle ville, ils leurs sera très facile d’y arriver. 
+
+Évidemment, ce n’est pas uniquement grâce à vos déplacements que Google pourra parvenir à vous manipuler, Google va en même temps utiliser le "Bubble Filter" qui est en fait un système de censure de vos résultats de recherche Google (je ferais un article sur le Bubble Filter, car cela a posé de gros problèmes lors d’élection présidentielle en réussissant à modifier les intentions de vote des utilisateurs de leurs services) de façon très simple, ils vont mettre en avant de vos actualités Google que des aliments dans certains magasins Auchan ont étaient contaminé par la salmonelle (ce qui arrive à des dizaines de magasins tous les jours) et en mettant des avis négatifs en avant sur la page du magasin, par exemple.
 
 
 - [How to escape Google’s filter bubble](https://www.searchenginewatch.com/2017/08/18/how-to-escape-googles-filter-bubble/)
@@ -79,6 +88,7 @@ Pour finir, je parlerais brièvement des **réseaux sociaux**.
 Ils sont **dangereux et addictifs**.
 Je vous invite à regarder la série de reportages Arte (7-8 minutes par épisodes) ci-dessous.
 Elle explique comment vos réseaux sociaux favoris font pour vous maintenir **dépendant**, au même titre qu’un consommateur de cocaïne, car cela agit aussi sur la dopamine.
+
 S'il y a des parents qui lisent cet article, **protégez vos enfants** de ces différents réseaux.
 
 - [Dopamine - ARTE](https://www.arte.tv/en/videos/RC-017841/dopamine/)
