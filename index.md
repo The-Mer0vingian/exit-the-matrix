@@ -12,3 +12,13 @@ Internet a était, ces dernières années, une des plus grande révolution pour 
 ## Sommaire
 - [Préambule : Les dangers et dérives.](https://the-mer0vingian.github.io/exit-the-matrix/dangers-et-derives)
 
+---
+![Mise à jour](https://img.shields.io/github/last-commit/The-Mer0vingian/exit-the-matrix?label=Derni%C3%A8re%20modification&style=for-the-badge)
+
+![Tipeurs LiberaPay](https://img.shields.io/liberapay/patrons/The-Merovingian?label=Tipeurs%20LIBERAPAY&style=for-the-badge)
+
+![Adresse BTC](https://img.shields.io/keybase/btc/test?style=for-the-badge)
+
+![Adresse XLM](https://img.shields.io/keybase/xlm/f?style=for-the-badge)
+
+![Clé PGP](https://img.shields.io/keybase/pgp/d?style=for-the-badge)
