@@ -89,7 +89,9 @@ Encore une fois, des alternatives à Google Maps existent, car en réalité, il 
 Pour finir, je parlerais brièvement des **réseaux sociaux**.
 
 Ils sont **dangereux et addictifs**.
+
 Je vous invite à regarder la série de reportages Arte (7-8 minutes par épisodes) ci-dessous.
+
 Elle explique comment vos réseaux sociaux favoris font pour vous maintenir **dépendant**, au même titre qu’un consommateur de cocaïne, car cela agit aussi sur la dopamine.
 
 S'il y a des parents qui lisent cet article, **protégez vos enfants** de ces différents réseaux.
@@ -109,10 +111,13 @@ Je vais m’arrêter ici, même si je pourrais continuer longtemps en parlant d�
 J’estime que si avec ces quelques exemples vous n’avez pas l’envie de changer vos habitudes et de retrouver votre liberté et votre anonymat, c’est que rien ne vous en donnera l’envie.
 
 Pour les autres, bravo ! Vous avez choisi la pilule rouge !
+
 Comme dit précédemment, les articles seront progressifs, pour ne pas avoir un changement brutal dans vos habitudes.
 
 Je vous invite à lire les différents liens si cela vous intéresse.
+
 Abonnez-vous pour ne pas manquer les prochains articles, laissez un petit commentaire pour me remercier si vous avez apprécié l’article.
+
 N’hésitez pas à poser des questions, j’y répondrais des que possible.
 
 
