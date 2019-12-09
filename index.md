@@ -7,9 +7,7 @@ Internet a était, ces dernières années, une des plus grande révolution pour 
 
 ## Mes réseaux
  - Me suivre sur Steemit
- - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) 
- 
-<noscript><a href="https://liberapay.com/The-Merovingian/donate"><img alt="Financez-moi sur Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+ - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) - <noscript><a href="https://liberapay.com/The-Merovingian/donate"><img alt="Financez-moi sur Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ## Sommaire
 - [Préambule : Les dangers et dérives.](https://the-mer0vingian.github.io/exit-the-matrix/dangers-et-derives)
