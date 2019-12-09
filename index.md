@@ -8,14 +8,14 @@ Internet a était, ces dernières années, une des plus grande révolution pour 
 ## Mes réseaux
  - Me suivre sur Steemit
  - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) 
+ 
+<noscript><a href="https://liberapay.com/The-Merovingian/donate"><img alt="Financez-moi sur Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ## Sommaire
 - [Préambule : Les dangers et dérives.](https://the-mer0vingian.github.io/exit-the-matrix/dangers-et-derives)
 
 ---
 ![Mise à jour](https://img.shields.io/github/last-commit/The-Mer0vingian/exit-the-matrix?label=Derni%C3%A8re%20modification&style=for-the-badge)
-
-![Tipeurs LiberaPay](https://img.shields.io/liberapay/patrons/The-Merovingian?label=Tipeurs%20LIBERAPAY&style=for-the-badge)
 
 ![Adresse BTC](https://img.shields.io/keybase/btc/test?style=for-the-badge)
 
