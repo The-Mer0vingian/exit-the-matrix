@@ -9,5 +9,5 @@ Internet a était, ces dernières années, une des plus grande révolution pour 
  - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) 
 
 ## Sommaire
-- Préambule : Les dangers et dérives.
+- [Préambule : Les dangers et dérives.](https://the-mer0vingian.github.io/exit-the-matrix/dangers-et-derives)
 
