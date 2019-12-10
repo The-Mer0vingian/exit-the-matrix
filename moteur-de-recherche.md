@@ -6,7 +6,7 @@
 
 Comme nous l’avions vu dans le [préambule](https://the-mer0vingian.github.io/exit-the-matrix/dangers-et-derives), Google et l’intégralité de ses services sont à bannir. 
 
-Son moteur de recherche l’est également !
+Son moteur de recherche l’est aussi par conséquent !
 
 DuckDuckGo et Qwant (🇫🇷) sont de très bonnes alternatives. 
 
@@ -42,9 +42,13 @@ Nous allons voir leurs points communs et différences.
 
 ## Changer votre moteur de recherche par défaut
 
-Directement dans Firefox entrer l’URL suivante : about:preferences#search ou [cliquez ici](about:preferences#search).
+Directement dans Firefox entrer l’URL suivante : 
 
-Une fois sur la page cliquer sur le menu déroulant et séléctionner DuckDuckGo ou Qwant.
+```
+about:preferences#search
+```
+
+Une fois sur la page, cliquer sur le menu déroulant et séléctionner DuckDuckGo ou Qwant.
 
 <img src="https://raw.githubusercontent.com/The-Mer0vingian/exit-the-matrix/master/img/changer-moteur-recherche.png" alt="parametre firefox" style="zoom:67%;" />
 
