@@ -129,7 +129,8 @@ N’hésitez pas à poser des questions, j’y répondrais des que possible.
 
 
 ## Mes réseaux
+ - Me suivre sur <a rel="me" href="https://mastodon.social/@themerovingian">Mastodon</a>
  - Me suivre sur Steemit
  - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) - <script src="https://liberapay.com/The-Merovingian/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/The-Merovingian/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
+## [➥ Retourner au sommaire](https://the-mer0vingian.github.io/exit-the-matrix/)
