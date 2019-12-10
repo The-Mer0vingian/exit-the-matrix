@@ -12,7 +12,7 @@ Cette série va vous aider, progressivement, à changer vos habitudes sur Intern
 
 ## Pourquoi changer vos habitudes ?
 
-<img src="https://github.com/The-Mer0vingian/exit-the-matrix/blob/master/img/freedom.png" alt="freedom" style="zoom: 67%;" />
+<img src="https://raw.githubusercontent.com/The-Mer0vingian/exit-the-matrix/master/img/freedom.png" alt="freedom" style="zoom: 67%;" />
 
 
 Si vous êtes ici, soit vous êtes déjà sensible au sujet et voulez retrouver votre liberté numérique, mais si vous êtes ici un peu par hasard, voici quelques raisons qui pourraient vous alerter du réel danger que nous vivons.
@@ -73,7 +73,7 @@ Par exemple, vous allez 9 fois 10 faire vos courses chez Auchan et bien si Carre
 Vous commencez à voir le côté très pervers?
 ## Fichage, fichage, fichage.. Mais fichez-moi la paix !
 
-<img src="https://github.com/The-Mer0vingian/exit-the-matrix/blob/master/img/surveillance.png" alt="surveillance" style="zoom: 67%;" />
+<img src="https://raw.githubusercontent.com/The-Mer0vingian/exit-the-matrix/master/img/surveillance.png" alt="surveillance" style="zoom: 67%;" />
 
 Autre exemple, aux États-Unis, Google fournit à la police les données GPS des utilisateurs qui se trouvent dans un certain rayon autour d’une scène de crime/délit, on peut très vite se retrouver menotté et auditionné pendant 72 heures tout en étant innocent, mais même innocent votre ADN et vos empreintes seront récolter pour alimenter la base de données biométrique des citoyens, et n’oublions pas que même innocent, sous la pression d’un interrogatoire, certaines personnes plus fragile que d’autres peuvent avouer des crimes sans même les avoirs commis..
 
