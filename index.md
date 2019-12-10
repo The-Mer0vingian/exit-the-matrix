@@ -15,6 +15,7 @@ Internet a était, ces dernières années, une des plus grande révolution pour 
 ## Sommaire
 - [Préambule : Les dangers et dérives.](https://the-mer0vingian.github.io/exit-the-matrix/dangers-et-derives)
 - [Chapitre I : Navigateur et extensions.](https://the-mer0vingian.github.io/exit-the-matrix/navigateur-et-extensions)
+- [Chapitre II : Moteur de recherche.](https://the-mer0vingian.github.io/exit-the-matrix/moteur-de-recherche)
 
 ---
 ![Mise à jour](https://img.shields.io/github/last-commit/The-Mer0vingian/exit-the-matrix?label=Derni%C3%A8re%20modification&style=for-the-badge)
