@@ -9,6 +9,7 @@ Internet a était, ces dernières années, une des plus grande révolution pour 
  - Me suivre sur Steemit
  - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) - <script src="https://liberapay.com/The-Merovingian/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/The-Merovingian/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+- Me suivre sur <a rel="me" href="https://mastodon.social/@themerovingian">Mastodon</a>
 
 ## Sommaire
 - [Préambule : Les dangers et dérives.](https://the-mer0vingian.github.io/exit-the-matrix/dangers-et-derives)
