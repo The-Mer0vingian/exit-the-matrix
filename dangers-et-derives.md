@@ -82,6 +82,8 @@ Autre exemple, aux États-Unis, Google fournit à la police les données GPS des
 
 Cela arrivera en France tôt ou tard, notre gouvernement actuel commence à instaurer la reconnaissance faciale dans nos villes et l’Europe a clairement démontré qu’elle suivait le même chemin que les États-Unis et la NSA en matière de surveillance de masse.
 
+- [France is about to become the first European Union country to introduce facial recognition software for government services.
+](https://www.dw.com/en/france-embraces-facial-recognition-tech/a-51106489)
 - [Reconnaissance faciale: où en est la France?](http://www.rfi.fr/france/20191030-reconnaissance-faciale-france)
 - [Comment la reconnaissance faciale s'installe en France](https://www.lesechos.fr/tech-medias/intelligence-artificielle/comment-la-reconnaissance-faciale-sinstalle-en-france-1140171)
 - [Reconnaissance faciale France : C’est un outil de surveillance de masse qui va déshumaniser les rapports sociaux](https://aphadolie.com/2019/11/07/reconnaissance-faciale-un-outil-de-surveillance-qui-va-deshumaniser-les-rapports-sociaux/)
