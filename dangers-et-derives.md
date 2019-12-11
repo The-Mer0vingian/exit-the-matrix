@@ -78,6 +78,7 @@ Vous commencez à voir le côté très pervers?
 Autre exemple, aux États-Unis, Google fournit à la police les données GPS des utilisateurs qui se trouvent dans un certain rayon autour d’une scène de crime/délit, on peut très vite se retrouver menotté et auditionné pendant 72 heures tout en étant innocent, mais même innocent votre ADN et vos empreintes seront récolter pour alimenter la base de données biométrique des citoyens, et n’oublions pas que même innocent, sous la pression d’un interrogatoire, certaines personnes plus fragile que d’autres peuvent avouer des crimes sans même les avoirs commis..
 
 - [Google Maps will now let users share the locations of police speed traps, similar to apps like Waze](https://www.businessinsider.com/google-maps-lets-users-share-police-locations-waze-2019-10)
+- [Google Gives Feds 1,500 Phone Locations In Unprecedented ‘Geofence’ Search](https://www.forbes.com/sites/thomasbrewster/2019/12/11/google-gives-feds-1500-leads-to-arsonist-smartphones-in-unprecedented-geofence-search/#47f4e16b27dc)
 
 Cela arrivera en France tôt ou tard, notre gouvernement actuel commence à instaurer la reconnaissance faciale dans nos villes et l’Europe a clairement démontré qu’elle suivait le même chemin que les États-Unis et la NSA en matière de surveillance de masse.
 
