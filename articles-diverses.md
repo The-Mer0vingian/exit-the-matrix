@@ -1,6 +1,6 @@
 ## [Accueil](https://the-mer0vingian.github.io/exit-the-matrix/)
 
-## Répertoire de liens en rapport avec la vie privée et les donnés personnelles
+## Répertoire de liens en rapport avec la vie privée et les données personnelles
 
 - [Why Is an Airline Tracking My Sexual Orientation?](https://www.flyertalk.com/articles/british-airways-labeled-me-sensitive-what-does-that-mean.html)
 
