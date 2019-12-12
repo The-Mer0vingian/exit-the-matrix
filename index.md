@@ -16,6 +16,8 @@ Internet a était, ces dernières années, une des plus grande révolution pour 
 - [Préambule : Les dangers et dérives.](https://the-mer0vingian.github.io/exit-the-matrix/dangers-et-derives)
 - [Chapitre I : Navigateur et extensions.](https://the-mer0vingian.github.io/exit-the-matrix/navigateur-et-extensions)
 - [Chapitre II : Moteur de recherche.](https://the-mer0vingian.github.io/exit-the-matrix/moteur-de-recherche)
+- [Chapitre III : Utiliser YouTube autrement sur PC & Android.](https://the-mer0vingian.github.io/exit-the-matrix/youtube-alternatives)
+
 
 ## Extras
 - [Répertoire de liens en rapport avec la vie privée et les données personnelles](https://the-mer0vingian.github.io/exit-the-matrix/articles-diverses)
