@@ -63,7 +63,7 @@ Bravo, ce petit changement va réellement améliorer votre retour à l'anonymat,
 ## Mes réseaux
 
  - Me suivre sur <a rel="me" href="https://mastodon.social/@themerovingian">Mastodon</a>
- - Me suivre sur Steemit
+ - Me suivre sur [Steemit](https://steemit.com/@the-merovingian)
  - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) - <script src="https://liberapay.com/The-Merovingian/widgets/button.js"></script>
 
 <noscript><a href="https://liberapay.com/The-Merovingian/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
