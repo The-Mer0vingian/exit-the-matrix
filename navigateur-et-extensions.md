@@ -1,6 +1,7 @@
 ## [Accueil](https://the-mer0vingian.github.io/exit-the-matrix/)
 
 ## Exit The Matrix - Chapitre I : Navigateur et extensions
+<img src="https://raw.githubusercontent.com/The-Mer0vingian/exit-the-matrix/master/img/browser.png" alt="browser" style="zoom: 67%;" />
 
 Que vous soyez sur votre smartphone ou sur votre ordinateur, la plupart d'entre vous utilises Chrome (40% d'après des statistiques en 2019). La plupart d'entres vous utilises l'extension AdBlock pour bloquer les publicités.
 
@@ -15,6 +16,8 @@ Et uBlock Origin à la différence d'AdBlock est bien plus personnalisable et le
 
 
 ## Firefox et les extensions indispensables
+<img src="https://raw.githubusercontent.com/The-Mer0vingian/exit-the-matrix/master/img/fox.png" alt="firefox" style="zoom: 67%;" />
+
 
 Les opérations suivantes sont à faire sur ordinateur et smartphone.
 
