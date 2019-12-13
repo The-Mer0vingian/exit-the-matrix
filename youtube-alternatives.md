@@ -4,6 +4,7 @@
 
 ## Exit The Matrix - Chapitre III : Utiliser YouTube autrement sur PC & Android 
 
+<img src="https://raw.githubusercontent.com/The-Mer0vingian/exit-the-matrix/master/img/video-player.png" alt="video-player" style="zoom: 67%;" />
 
 
 ## [HookTube](https://hooktube.com/), le choix facile (PC).
@@ -95,7 +96,7 @@ Je vous répondrais que c'est le but des géants de vous faire croire cela,  vou
 ## Mes réseaux
 
  - Me suivre sur <a rel="me" href="https://mastodon.social/@themerovingian">Mastodon</a>
- - Me suivre sur Steemit
+ - Me suivre sur [Steemit](https://steemit.com/@the-merovingian)
  - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) - <script src="https://liberapay.com/The-Merovingian/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/The-Merovingian/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 ## [➥ Retourner au sommaire](https://the-mer0vingian.github.io/exit-the-matrix/)
