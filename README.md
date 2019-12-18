@@ -6,10 +6,12 @@
 Internet a était, ces dernières années, une des plus grande révolution pour notre espèce, la quasi totalité des personnes l’utilisent tous les jours et pourtant, une infime partie d’entre eux l’utilisent correctement mais pour l’autre majorité, **ce formidable outil est devenu une arme qui a déjà commencé a se retourner contre eux.**
 
 ## Mes réseaux
+ - Me contacter sur [KeyBase](https://keybase.io/themer0vingian)
  - Me suivre sur <a rel="me" href="https://mastodon.social/@themerovingian">Mastodon</a>
  - Me suivre sur [Steemit](https://steemit.com/@the-merovingian)
  - Me soutenir sur [Liberapay](https://liberapay.com/The-Merovingian) - 
 <noscript><a href="https://liberapay.com/The-Merovingian/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+ - M'envoyer des XLM : GBBAIGNFKNWI4EWXXARUROJY2FUCPWHNESGUT2ZBXCSWVXPYS5TE7KJN
 
 
 ## Sommaire
